@@ -2,10 +2,8 @@
 
 ### Hi there 👋, My name is Nyanor Nathaniel Owusu Achiaw
 #### Tech Enthusiast | Future Software Engineer | Inspired by @nakjemmy (github.com)
-![Tech Enthusiast | Future Software Engineer | Inspired by @nakjemmy (github.com)]
 
 
-Sure, here is an about for you as a future software engineer:
 
 I am a future software engineer with a passion for building innovative and user-friendly software applications. I am currently studying computer science at the University of Energy and Natural Resources, Sunyani- Ghana, and I am excited to learn more about the software development process and the latest technologies.
 
