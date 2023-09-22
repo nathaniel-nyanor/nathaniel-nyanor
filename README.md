@@ -9,11 +9,9 @@ I am a learning software engineer with a passion for building innovative and use
 
 Skills: FLUTTER / HTML / CSS / PHP
 
-- 🔭 I’m currently working on something special 
 - 🌱 I’m currently learning flutter 
 - 💬 Ask me about flutter and dart 
-- 📫 How to reach me: just send me an email nathaniel.nyanor@gmail.com 
-- ⚡ Fun fact: I don't know 😄 
+- 📫 How to reach me: just send me an email nathaniel.nyanor@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nathaniel-nyanor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nathaniel-nyanor/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abrantepakofi.wusu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/owusu_natbongo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/22287903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](zedertechnologies.com)  
