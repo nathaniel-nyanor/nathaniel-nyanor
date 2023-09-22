@@ -5,7 +5,7 @@
 
 
 
-I am a future software engineer with a passion for building innovative and user-friendly software applications. I am currently studying computer science at the University of Energy and Natural Resources, Sunyani- Ghana, and I am excited to learn more about the software development process and the latest technologies.
+I am a learning software engineer with a passion for building innovative and user-friendly software applications. I am currently studying computer science at the University of Energy and Natural Resources, Sunyani- Ghana, and I am excited to learn more about the software development process and the latest technologies.
 
 Skills: FLUTTER / HTML / CSS / PHP
 
