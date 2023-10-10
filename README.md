@@ -5,7 +5,7 @@
 
 
 
-I am a learning software engineer with a passion for building innovative and user-friendly software applications. I am currently studying computer science at the University of Energy and Natural Resources, Sunyani- Ghana, and I am excited to learn more about the software development process and the latest technologies.
+I am a learning software engineering with a passion for building innovative and user-friendly software applications. I am currently studying computer science at the University of Energy and Natural Resources, Sunyani- Ghana, and I am excited to learn more about the software development process and the latest technologies.
 
 Skills: FLUTTER / HTML / CSS / PHP
 
@@ -23,11 +23,6 @@ Skills: FLUTTER / HTML / CSS / PHP
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaniel-nyanor)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nathaniel-nyanor&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nathaniel-nyanor)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=nathaniel-nyanor)  
-
 
 
 <!--
