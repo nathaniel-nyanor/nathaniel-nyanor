@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ### Hi there 👋, My name is Nyanor Nathaniel Owusu Achiaw
 #### Tech Enthusiast | Future Software Engineer | Inspired by @nakjemmy (github.com)
