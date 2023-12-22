@@ -1,4 +1,6 @@
 
+![Desktop - 1](https://github.com/nathaniel-nyanor/nathaniel-nyanor/assets/75817289/70bb3bf1-c6a6-46f3-a8f0-c72034360e09)
+
 ### Hi there 👋, My name is Nyanor Nathaniel Owusu Achiaw
 #### Tech Enthusiast | Future Software Engineer | Inspired by @nakjemmy (github.com)
 
